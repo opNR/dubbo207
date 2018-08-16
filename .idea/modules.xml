@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo.iml" filepath="$PROJECT_DIR$/dubbo/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-cluster/dubbo-cluster.iml" filepath="$PROJECT_DIR$/dubbo-cluster/dubbo-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-common/dubbo-common.iml" filepath="$PROJECT_DIR$/dubbo-common/dubbo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-config/dubbo-config.iml" filepath="$PROJECT_DIR$/dubbo-config/dubbo-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-container/dubbo-container.iml" filepath="$PROJECT_DIR$/dubbo-container/dubbo-container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-monitor/dubbo-monitor.iml" filepath="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-parent.iml" filepath="$PROJECT_DIR$/dubbo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-registry/dubbo-registry.iml" filepath="$PROJECT_DIR$/dubbo-registry/dubbo-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-remoting/dubbo-remoting.iml" filepath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-rpc/dubbo-rpc.iml" filepath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc.iml" />
+    </modules>
+  </component>
+</project>
